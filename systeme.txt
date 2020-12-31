@@ -44,7 +44,7 @@
   The reason why the 1NT opening is left out above is a secret for
   now!
 
-* Ouverture d'1C
+* Ouverture d'1!c
 
   À partir de 2 cartes. Le Walsh, basé sur le principe "la majeure d'abord", consistant à ne présenter les D
   K que dans les mains fortes ou sans majeures, est utilisé.
@@ -71,7 +71,9 @@
   the number of dashes only matters to the way the output looks. Also
   note the 1red response, this defines both 1D and 1H.
 
-** Ouverture majeure
+* Ouverture d'1!d
+
+* Ouverture majeure
 
    This section has two asterisks, meaning it will be at level two
    (so its a subsection). You might also have noticed that the
