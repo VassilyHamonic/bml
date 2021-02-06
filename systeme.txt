@@ -264,20 +264,19 @@ Cette ouverture peut contenir une majeure 5e.
 3H  Texas !s
 3S  Texas pour 3N
 3N  5!s et 4!h
-4!c Bicolore mineur TDC
-4!d Bicolore majeur, limité à la manche ou certitude de chelem
+4C Bicolore mineur TDC
+4D Bicolore majeur, limité à la manche ou certitude de chelem
 
 ** Le Puppet Stayman
 
 2N-3C ---
-3D 4!h et/ou 4!s
-    3H 4!s
-        Ici, l'ouvreur dit 3!s avec les !s et 3SA avec les !h. Un contrôle après cette enchère indique
+3D  4!h et/ou 4!s
+   3H 4!s Ici, l'ouvreur dit 3!s avec les !s et 3SA avec les !h. Un contrôle après cette enchère indique
         que le fit est trouvé et que le répondant a des envies de chelem dans cette couleur. Il 
-        faut donc passer par 3!h avec les deux majeures 4e et des envies de chelem.
-    3S 4!h
-    3N 3-!h et 3-!s
-    4D 4!h et 4!s
+        faut donc passer par 3!h avec les deux majeures 4e et des envies de
+   3S 4!h
+   3N 3-!h et 3-!s
+   4D 4!h et 4!s
 3H 5!h
 3S 5!s
 3N 3-!h et 3-!s
@@ -285,7 +284,7 @@ Cette ouverture peut contenir une majeure 5e.
 ** Les Texas
 
 2N---
-3D 3H 2!h
+3D  3H 2!h
     3S 5!s et 2!h
         4!c/!d ctrl !c/!d et fit !s
         4!h/!s Arrêt
@@ -301,21 +300,6 @@ Cette ouverture peut contenir une majeure 5e.
     4D 3+!s et ctrl !d (sans ctrl !c)
     4H 3+!s et ctrl !h
     4S 3+!s et tous les ctrl
-
-* Lists
-
-  I'd like to show you how to make lists in BML. It is pretty
-  simple:
-
-  - Here's a list!
-  - With a couple of
-  - Items in it
-
-  You could also make ordered lists:
-
-  1. This is ordered
-  2. Just add numbers
-  3. To each item
   
 * Les barrages et ouvertures à haut palier
 
