@@ -16,231 +16,125 @@
 
 \section{Introduction}
 
-Welcome to BML! This is a normal paragraph, and above we can see
-the \texttt{\#+TITLE}, the \texttt{\#+AUTHOR} and the \texttt{\#+DESCRIPTION} of the file. \texttt{\#+TITLE} is
-the name of the system and \texttt{\#+DESCRIPTION} is a \emph{short summary of} how
-the system works. \texttt{\#+AUTHOR} is self explanatory. \texttt{Introduction} above,
-``headed by an asterisk'', sets a section at the first level (the second
-level would have two asterisks etc).
+\section{Ouverture de 1m}
 
-In the paragraph above I encapsulated some words between equal
-signs. This means that they will show up as a monospaced font when
-exported to HTML or LaTeX. It is also possible to make words (or
-sentences) \textbf{strong or bold} or \emph{in italics}.
-
-The system presented in this example file is meant to showcase many
-of the current features in BML. Let's start with the basic opening
-structure of the system:
-
-\begin{bidtable}
-1\c \> 2+\c . Natural or balanced\\
-1\d \> 4+ suit, unbalanced\\
-1M \> 5+ suit\\
-2\c \> 20--21 bal / Any game force\\
-2\d \> 6+\h\ or 6+\s , 5--9 hcp\\
-2\h\s \> 6+ suit, 10--13 hcp\\
-2NT \> 22--24\\
-3X \> Preemptive\\
-3NT \> Gambling
-\end{bidtable}
-
-The above is an example of a bidding table; the reason why BML is
-more suited for bridge system notes than other markup languages. You
-start by writing the bid, then a number of whitespaces, and then the
-description of the bid. Simple! C is for clubs, D for diamonds, H
-for hearts, S for spades and N for no trump. There's also some
-special cases which you could use, above we use 1M (1H and 1S), 2HS
-(2H and 2S) and 3X (3C, 3D, 3H and 3S). We'll see more of these
-later.
-
-The reason why the 1NT opening is left out above is a secret for
-now!
-
-\section{Ouverture d'1C}
+\subsection{Le Walsh}
 
 À partir de 2 cartes. Le Walsh, basé sur le principe ``la majeure d'abord'', consistant à ne présenter les D
 K que dans les mains fortes ou sans majeures, est utilisé.
 En cas de fit fort sans majeure, le fit mineur inversé est utilisé.
 
-In this example we use transfer responses to the 1\c\ opening:
-
 \begin{bidtable}
 1\c---\\
-1\d \> 3 possibilités :\\
-\>4+\d\ et inv+\\
-\>5+\d , 3-\h \s\ et 6-10H\\
-\>BAL 5-7H et 3-\h \s \\
+1\d \> 3 possibilités :\+\\
+4+!d \> et inv+\\
+5+!d, \> 3-\h \s\ et 6-10H\\
+BAL \> 5-7H et 3-\h \s \-\\
 1\h \> \h /4+ (possibilité de \d\ plus longs que \h\ si <11h)\\
 1\s \> \s /4+ (possibilité de \d\ plus longs que \s\ si <11h)\\
 1NT \> 8-10 3-\h \s \\
 2\c \> FMI : fit \c , 10+ (voir développements plus loin)\\
 2\d \> 6+\d\ (et 2GH), 18H+\\
-2\h \> 5+\s\ 4+\h , 5-8H\\
-2\s \> 5+\s\ 4+\h , 9-10H
+2\h \> 5+\s\ 4+\h , 5-8H, idem sur 1\d \\
+2\s \> 5+\s\ 4+\h , 9-10H, idem sur 1\d \\
+2NT	 \> 11-12 BAL (3\c\ NF, reste FM)\\
+3\c	 \> 5\c , main irrégulière ~5-9 H\\
+3X	 \> Barrage 7 cartes\\
+3NT	 \> 12-14 BAL
 \end{bidtable}
 
-By writing 1C--- we define that the following bids should be
-continuations to the sequence 1C. We could write 1C- or 1C-- too,
-the number of dashes only matters to the way the output looks. Also
-note the 1red response, this defines both 1D and 1H.
-
-\subsection{Ouverture majeure}
-
-This section has two asterisks, meaning it will be at level two
-(so its a subsection). You might also have noticed that the
-paragraphs, the sections and the bidtables are separated by a
-blank line? This is important in BML, as the blankline are used to
-separate elements.
+\subsection{La séquence 1\pdfc\ - 1\pdfd}
 
 \begin{bidtable}
 1\c-1\d;\\
-1\h \> Minimum with 2--3\h \+\\
-1\s \> 4+\h , 4\s , at most invitational\\
-1NT \> Sign off\\
-2\c \> Puppet to 2\d \+\\
-2\d \> Forced\+\\
-2\h \> Mildly invitational with 5\h \\
-2\s \> Invitational, 5+\h\ and 4\s \\
-2NT \> Strongly invitational with 5\h \\
-3m \> Invitational with 4\h\ and 5+ minor\\
-3\h \> 6\h , about 11--12 hcp\-\-\\
-2\d \> Artificial game force\\
-2\h \> 6+\h , about 9--10 hcp\-\\
-1\s \> 5+\c , 4+\s , unlimited\\
-1NT \> 17--19 bal, 2--3\h \\
-2\c \> 5+\c , unbal, 0--2\h , 0--3\s \\
-2\d \> Reverse\\
-2\h \> Minimum, 4\h \\
-2\s \> 16+ hcp, 5+\c\ and 4+\h \+\\
-3\d \> Retransfer\+\\
-3\h\+\\
-3\s \> Cue bid, slam interest\\
-4\c\d \> Cue bid, slam interest\\
-4\h \> To play\-\-\\
-3\h \> Invitational\\
-3\s \> Splinter\\
-4\c\d \> Splinter\\
-4\h \> To play\-\\
-2NT \> 16+ hcp, 6+\c . 18+ if 3\h \+\\
-3\c \> Suggestion to play\\
-3\d \> Relay\+\\
-3\h \> 3\h , 18+ hcp\-\\
-3\h \> Game forcing with 6+\h \-\\
-3\c \> 15--17 hcp, 6+\c\ and 3\h \+\\
-3\d \> Retransfer\\
-3\h \> Invitational\-\\
-3\d \> 17--19 bal, 4\h \+\\
-3\h \> To play\-\\
-3\h \> 13--15 hcp, good hand, 5+\c\ and 4\h \+\\
-3NT \> Asking for singleton\-
+1M \> 12-17 H, M/4 Main irrégulière (5\c )\\
+1\h\+\\
+1\s \> 4eme couleur forcing\\
+\>(L’ouvreur réagit comme sur une enchère NAT mais ne peut pas dire 4\s ) \+\\
+2\s \> 12-14\\
+3\s \> 15+\+\\
+3NT \> SO\\
+4X \> cue fit \s \-\-\\
+2\s \> 5\d 4\s\ FM\-\\
+1NT \> 12-14 H, BAL\+\\
+2\c \> checkback stayman avec des mains INV+\+\\
+2X\+\\
+3\c \> 5\d 5\c\ FM (fit différé)\\
+3\d \> 6+\d\ FM\-\\
+2\d \> Pas de M/4\\
+2\h \> 4\h\ (et peut être 4\s )\\
+2\s \> 4\s \-\\
+3\c \> 5\d 4\c\ INV\\
+3\d \> 6\d\ INV\-
 \end{bidtable}
 
-This bidding table shows a couple of new features. The most
-prominent is the ability to add continuations directly in the
-table, by using whitespaces. We also see another example of
-appending bids to an existing sequence, by using 1C-1D; in the
-beginning. There's also the use of 3m, meaning both 3C and 3D.
-
-\section{Ouverture d'1NT}
-
-Defining bidding when both sides bid is a little bit more tricky,
-since you have to write all the bids (even passes). The opponents'
-bid are indicated by encapsulating them in parentheses. P is used
-for Pass, D for Double and R for Redouble.
+\subsection{La séquence 1\pdfc\ - 1M}
 
 \begin{bidtable}
-(1NT)---\\
-Dbl \> Strength, ca 15+\\
-2\c \> At least 5-4 majors\+\\
-(D)\+\\
-Pass \> 5+\c , suggestion to play\\
-Rdbl \> Asking for better/longer major\\
-2\d \> 5+\d , suggestion to play\-\\
-(P)\+\\
-2\d \> Asking for better/longer major\-\-\\
-2\d \> A weak major or a strong minor\+\\
-(P)\+\\
-2\h \> Pass/correct\\
-2\s \> Pass/correct\\
-2NT \> Asking\-\-\\
-2\h\s \> Constructive\\
-2NT \> 5-5 minors\\
-3X \> Preemptive
+1\c-1M;\\
+1NT\+\\
+2\d \> 5\d 4M faible to play\-\\
+2\c\+\\
+2\d \> 3eme couleur forcing\-
 \end{bidtable}
 
-Note that the above is only for a direct overcall over 1NT. To
-define the above also when balancing. We've used BML's
-copy/cut/paste functionality in order to showcase that you do not
-have to write it all over again. Take a look below (only visible in
-the \emph{example.txt} file, not in HTML, LaTeX or .pdf):
-
-First we used the \texttt{\#COPY} command; the text between \texttt{\#COPY} and \texttt{\#ENDCOPY}
-got put into a sort of clipboard, with the tag nt\_defense which we
-specified. To paste it into the bidding table above we used
-the \texttt{\#PASTE} command. We also used the \texttt{\#HIDE} option. When this is
-present in a bidding table the table will be exported to Full
-Disclosure, but not to HTML or LaTeX.
-
-You could also include other BML-files into your main file by using
-the \texttt{\#INCLUDE} command. Just type \texttt{\#INCLUDE <filename>} and the entire
-file will be inserted at the point where you wrote the command. This
-is a useful way to separate your system into modules, or perhaps
-just to make it more manageable.
-
-It is also possible to add continuations when the opponents
-interfere:
+\subsection{La séquence 1m - 1M}
 
 \begin{bidtable}
-1\c-(1\d)---\\
-Dbl \> 4+\h \\
-1\h \> 4+\s \\
-1\s \> INV+ with 5+\d\ / Negative NT\\
-1NT \> Game forcing, 5+\c\ or balanced\\
-2\c \> 5+\c , 5--9 hcp\\
-2X \> 6+ suit, 4--8 hcp\\
-2NT \> Invitational
+1m-1M;\\
+2NT \> pas de fit\+\\
+3\c \> réponses style Baron\+\\
+3\d \> 5m\\
+3M \> 3m\\
+3M' \> 4M'\\
+3NT \> aucun des cas précédents\-\\
+3\d \> fit dans la m (FM ou TDC)\\
+3M \> NAT NF\\
+3M' \> BIC (55 ou 65) FM\\
+3NT \> SO\\
+4m/M' \> cue avec atout M\\
+4\h \> (sur 1\s ) BIC NF\\
+4M \> SO\\
+4NT \> quantitatif\-\\
+3NT \> fit main régulière\\
+4(3)M’ \> splinter\\
+4m’ \> splinter\\
+4m \> 5+m 4+M\\
+4M \> main extrêmement irrégulière avec peu de points d’honneurs
 \end{bidtable}
+
+\subsection{La séquence 1m - 2\pdfh}
+
+\subsection{La séquence 1m - 2\pdfs}
+
+\subsection{La séquence 1\pdfd\ - 2\pdfc}
+
+\begin{bidtable}
+1\d-2\c;\\
+2\d \> irrégulier 11-15, BAL 12-13\\
+2M \> inversée NAT\\
+2NT \> BAL 14 ou 18-19\+\\
+3\c \> relai\+\\
+3\d \> 18-19, le reste NAT 14\-\-\\
+3\c \> 16+ PJS Fit 4ème ou 18-19 et 3 cartes\\
+3\d \> 6+\d , 16+ problème dans une ou deux M\\
+3M \> 65 sans inversée\\
+3NT \> 6+\d , 16+ avec les arrêts M
+\end{bidtable}
+
+\subsection{Le fit mineur inversé}
+
+\subsection{Enchère du répondant après une inversée}
+
+\section{Ouverture de 1M}
+
+\section{Ouverture de 1N}
+
+\section{Ouverture de 2\pdfc}
+
+\section{Ouverture de 2\pdfd}
 
 \section{Ouverture de 2\pdfh\ et 2\pdfs}
-
-Here's the reason why I left out the 1NT opening earlier: I will
-showcase how to make sequences dependant on vulnerability and
-seat. This will be a bit messy, so hold tight!
-
-We start by cutting our NT-module, since this will be used on all
-NT-openings. \texttt{\#CUT} is similar to the \texttt{\#COPY} command, but using \texttt{\#CUT}
-means that it isn't parsed as a bidding table until it is pasted.
-
-The \texttt{\#VUL} command is used to set the vulnerability. It takes an
-argument of two characters, each can be Y, N or 0. The first
-character asks if we are vulnerable and the second asks if our
-opponents are vulnerable. Y is for Yes, N is for No and 0 means that
-it doesn't matter.
-
-The \texttt{\#SEAT} command sets the seat in which the bid should be valid. 0
-means that the seat doesn't matter (all seats), 12 means first or
-second and 34 means third or fourth. 1--4 could also be used.
-
-So when we're not vulnerable we open 1NT 12--14 in 1st and 2nd seat.
-
-But in third and fourth seat it is 14--16.
-
-When we're vulnerable we always open 1NT 14--16.
-
-\begin{bidtable}
-1NT---\\
-2\c \> Stayman\+\\
-2\d \> No major\\
-2NT \> 4-4 majors, minimum\\
-3\c \> 4-4 majors, maximum\-\\
-2red \> Transfer\\
-2\s \> Minor suit stayman\\
-2NT \> Invitational
-\end{bidtable}
-
-We've been using the \texttt{\#HIDE} command, so we don't have to see our
-NT-system over and over again. This time tough we paste it
-normally, so that we see it at least once.
 
 \section{Ouverture de 2NT}
 
@@ -253,8 +147,8 @@ Cette ouverture peut contenir une majeure 5e.
 3\h \> Texas \s \\
 3\s \> Texas pour 3N\\
 3NT \> 5\s\ et 4\h \\
-4!c \> Bicolore mineur TDC\\
-4!d \> Bicolore majeur, limité à la manche ou certitude de chelem
+4\c \> Bicolore mineur TDC\\
+4\d \> Bicolore majeur, limité à la manche ou certitude de chelem
 \end{bidtable}
 
 \subsection{Le Puppet Stayman}
@@ -262,13 +156,16 @@ Cette ouverture peut contenir une majeure 5e.
 \begin{bidtable}
 2NT-3\c \> ---\\
 3\d \> 4\h\ et/ou 4\s \+\\
-3\h \> 4\s \+\\
-Ici, \> l'ouvreur dit 3\s\ avec les \s\ et 3SA avec les \h . Un contrôle après cette enchère indique\\
-que \> le fit est trouvé et que le répondant a des envies de chelem dans cette couleur. Il\\
-faut \> donc passer par 3\h\ avec les deux majeures 4e et des envies de chelem.\-\\
-3\s \> 4\h \\
+3\h \> 4 cartes à \s \+\\
+3P \> fit \s \+\\
+4X \> envie de chelem\-\\
+3NT \> 4 cartes à \h \+\\
+(il \> est donc nécessaire de passer par 3\h\ avec\\
+les \> deux majeures 4e et des envie de chelem)\\
+4X \> fit avec envie de chelem\-\-\\
+3\s \> 4 cartes à \h\ et pas 4 cartes à \s \\
 3NT \> 3-\h\ et 3-\s \\
-4\d \> 4\h\ et 4\s \-\\
+4\d \> 4\h\ et 4\s\ sans envie de chelem\-\\
 3\h \> 5\h \\
 3\s \> 5\s \\
 3NT \> 3-\h\ et 3-\s 
@@ -295,31 +192,6 @@ faut \> donc passer par 3\h\ avec les deux majeures 4e et des envies de chelem.\
 4\h \> 3+\s\ et ctrl \h \\
 4\s \> 3+\s\ et tous les ctrl\-
 \end{bidtable}
-
-\section{Lists}
-
-I'd like to show you how to make lists in BML. It is pretty
-simple:
-
-\begin{itemize}
-\item Here's a list!
-
-\item With a couple of
-
-\item Items in it
-
-\end{itemize}
-
-You could also make ordered lists:
-
-\begin{enumerate}
-\item This is ordered
-
-\item Just add numbers
-
-\item To each item
-
-\end{enumerate}
 
 \section{Les barrages et ouvertures à haut palier}
 
