@@ -153,22 +153,24 @@ Cette ouverture peut contenir une majeure 5e.
 ** Les Texas
 
 2N---
-3D 3H 2!h
-    3S 5!s et 2!h
-        4!c/!d ctrl !c/!d et fit !s
-        4!h/!s Arrêt
-    3NT 3+!h et ctrl !s
-    4C 3+!h et ctrl !c (sans ctrl !s)
-    4D 3+!h et ctrl !d
-    4H 3+!h et tous les ctrl
-3H 3S 2!s
-    3N 5!h et 2!s
-        4!c/!d ctrl !c/!d et fit !h
-        4!h/!s Arrêt
-    4C 3+!s et ctrl !c 
-    4D 3+!s et ctrl !d (sans ctrl !c)
-    4H 3+!s et ctrl !h
-    4S 3+!s et tous les ctrl
+3D  
+  3H 2!h
+  3S 5!s et 2!h
+    4C/4D ctrl !c/!d et fit !s
+    4H/4S Arrêt
+  3NT 3+!h et ctrl !s
+  4C 3+!h et ctrl !c (sans ctrl !s)
+  4D 3+!h et ctrl !d
+  4H 3+!h et tous les ctrl
+3H  
+  3S 2!s
+  3N 5!h et 2!s
+    4C/4D ctrl !c/!d et fit !h
+    4H/4S Arrêt
+  4C 3+!s et ctrl !c 
+  4D 3+!s et ctrl !d (sans ctrl !c)
+  4H 3+!s et ctrl !h
+  4S 3+!s et tous les ctrl
   
 * Les barrages et ouvertures à haut palier
 
