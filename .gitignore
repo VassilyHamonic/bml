@@ -6,3 +6,9 @@ test.bss
 test.htm
 test.tex
 __pycache__/*
+systeme.aux
+systeme.fdb_latexmk
+systeme.log
+systeme.out
+systeme.synctex.gz
+systeme.toc
