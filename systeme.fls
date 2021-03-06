@@ -1,9 +1,9 @@
-PWD c:/Users/tom-2/Documents/bml
+PWD c:/Users/romain.monticelli/Documents/System/bml
 INPUT c:/texlive/2020/texmf.cnf
 INPUT c:/texlive/2020/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/tom-2/Documents/bml/systeme.tex
-OUTPUT c:/Users/tom-2/Documents/bml/systeme.log
+INPUT c:/Users/romain.monticelli/Documents/System/bml/systeme.tex
+OUTPUT c:/Users/romain.monticelli/Documents/System/bml/systeme.log
 INPUT c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
@@ -262,10 +262,13 @@ INPUT c:/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
 INPUT c:/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
 INPUT c:/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
 INPUT c:/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
+<<<<<<< HEAD
 INPUT c:/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
 INPUT c:/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
 INPUT c:/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
 INPUT c:/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+=======
+>>>>>>> e735762034f61cccc5cf9096f1c8dc15e1585a54
 INPUT c:/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
 INPUT c:/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
 INPUT c:/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
@@ -290,10 +293,13 @@ INPUT c:/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 INPUT c:/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 INPUT c:/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 INPUT c:/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+<<<<<<< HEAD
 INPUT c:/texlive/2020/texmf-dist/tex/latex/hyperref/puenc.def
 INPUT c:/texlive/2020/texmf-dist/tex/latex/hyperref/puenc.def
 INPUT c:/texlive/2020/texmf-dist/tex/latex/hyperref/puenc.def
 INPUT c:/texlive/2020/texmf-dist/tex/latex/hyperref/puenc.def
+=======
+>>>>>>> e735762034f61cccc5cf9096f1c8dc15e1585a54
 INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/url/url.sty
@@ -396,6 +402,7 @@ INPUT c:/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 INPUT c:/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 INPUT c:/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 INPUT c:/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+<<<<<<< HEAD
 INPUT c:/Users/tom-2/Documents/bml/bml.tex
 INPUT c:/Users/tom-2/Documents/bml/bml.tex
 INPUT c:/Users/tom-2/Documents/bml/bml.tex
@@ -410,6 +417,22 @@ INPUT c:/Users/tom-2/Documents/bml/bml.tex
 INPUT c:/Users/tom-2/Documents/bml/bml.tex
 INPUT c:/Users/tom-2/Documents/bml/bml.tex
 INPUT c:/Users/tom-2/Documents/bml/bml.tex
+=======
+INPUT c:/Users/romain.monticelli/Documents/System/bml/bml.tex
+INPUT c:/Users/romain.monticelli/Documents/System/bml/bml.tex
+INPUT c:/Users/romain.monticelli/Documents/System/bml/bml.tex
+INPUT c:/Users/romain.monticelli/Documents/System/bml/bml.tex
+INPUT c:/Users/romain.monticelli/Documents/System/bml/bml.tex
+OUTPUT c:/Users/romain.monticelli/Documents/System/bml/bml.aux
+INPUT c:/Users/romain.monticelli/Documents/System/bml/bml.tex
+INPUT c:/Users/romain.monticelli/Documents/System/bml/bml.tex
+INPUT c:/Users/romain.monticelli/Documents/System/bml/bml.tex
+INPUT c:/Users/romain.monticelli/Documents/System/bml/bml.tex
+INPUT c:/Users/romain.monticelli/Documents/System/bml/bml.tex
+INPUT c:/Users/romain.monticelli/Documents/System/bml/bml.tex
+INPUT c:/Users/romain.monticelli/Documents/System/bml/bml.tex
+INPUT c:/Users/romain.monticelli/Documents/System/bml/bml.tex
+>>>>>>> e735762034f61cccc5cf9096f1c8dc15e1585a54
 INPUT c:/texlive/2020/texmf-dist/tex/latex/txfonts/txfonts.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/txfonts/txfonts.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/txfonts/txfonts.sty
@@ -534,10 +557,17 @@ INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+<<<<<<< HEAD
 INPUT c:/Users/tom-2/Documents/bml/systeme.aux
 INPUT c:/Users/tom-2/Documents/bml/systeme.aux
 INPUT c:/Users/tom-2/Documents/bml/systeme.aux
 OUTPUT c:/Users/tom-2/Documents/bml/systeme.aux
+=======
+INPUT c:/Users/romain.monticelli/Documents/System/bml/systeme.aux
+INPUT c:/Users/romain.monticelli/Documents/System/bml/systeme.aux
+INPUT c:/Users/romain.monticelli/Documents/System/bml/systeme.aux
+OUTPUT c:/Users/romain.monticelli/Documents/System/bml/systeme.aux
+>>>>>>> e735762034f61cccc5cf9096f1c8dc15e1585a54
 INPUT c:/texlive/2020/texmf-dist/tex/latex/txfonts/omltxmi.fd
 INPUT c:/texlive/2020/texmf-dist/tex/latex/txfonts/omltxmi.fd
 INPUT c:/texlive/2020/texmf-dist/tex/latex/txfonts/omltxmi.fd
@@ -610,6 +640,7 @@ INPUT c:/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT c:/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 INPUT c:/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+<<<<<<< HEAD
 INPUT c:/Users/tom-2/Documents/bml/systeme.out
 INPUT c:/Users/tom-2/Documents/bml/systeme.out
 INPUT c:/Users/tom-2/Documents/bml/systeme.out
@@ -622,6 +653,20 @@ OUTPUT c:/Users/tom-2/Documents/bml/systeme.pdf
 INPUT c:/Users/tom-2/Documents/bml/systeme.out
 INPUT c:/Users/tom-2/Documents/bml/systeme.out
 OUTPUT c:/Users/tom-2/Documents/bml/systeme.out
+=======
+INPUT c:/Users/romain.monticelli/Documents/System/bml/systeme.out
+INPUT c:/Users/romain.monticelli/Documents/System/bml/systeme.out
+INPUT c:/Users/romain.monticelli/Documents/System/bml/systeme.out
+INPUT c:/Users/romain.monticelli/Documents/System/bml/systeme.out
+INPUT c:/Users/romain.monticelli/Documents/System/bml/systeme.out
+INPUT c:/Users/romain.monticelli/Documents/System/bml/systeme.out
+INPUT c:/Users/romain.monticelli/Documents/System/bml/systeme.out
+INPUT c:/Users/romain.monticelli/Documents/System/bml/systeme.out
+OUTPUT c:/Users/romain.monticelli/Documents/System/bml/systeme.pdf
+INPUT c:/Users/romain.monticelli/Documents/System/bml/systeme.out
+INPUT c:/Users/romain.monticelli/Documents/System/bml/systeme.out
+OUTPUT c:/Users/romain.monticelli/Documents/System/bml/systeme.out
+>>>>>>> e735762034f61cccc5cf9096f1c8dc15e1585a54
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/t1xr.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/t1xr.tfm
 INPUT c:/texlive/2020/texmf-dist/tex/latex/txfonts/ot1txr.fd
@@ -683,9 +728,15 @@ INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/latex-fonts/lasy8.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/t1xr.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/t1xb.tfm
+<<<<<<< HEAD
 INPUT c:/Users/tom-2/Documents/bml/systeme.toc
 INPUT c:/Users/tom-2/Documents/bml/systeme.toc
 INPUT c:/Users/tom-2/Documents/bml/systeme.toc
+=======
+INPUT c:/Users/romain.monticelli/Documents/System/bml/systeme.toc
+INPUT c:/Users/romain.monticelli/Documents/System/bml/systeme.toc
+INPUT c:/Users/romain.monticelli/Documents/System/bml/systeme.toc
+>>>>>>> e735762034f61cccc5cf9096f1c8dc15e1585a54
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/t1xb.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txr.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txr.tfm
@@ -720,6 +771,7 @@ INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txexa.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/latex-fonts/lasy7.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/latex-fonts/lasy5.tfm
+<<<<<<< HEAD
 OUTPUT c:/Users/tom-2/Documents/bml/systeme.toc
 INPUT c:/texlive/2020/texmf-dist/tex/latex/txfonts/t1txtt.fd
 INPUT c:/texlive/2020/texmf-dist/tex/latex/txfonts/t1txtt.fd
@@ -727,6 +779,10 @@ INPUT c:/texlive/2020/texmf-dist/tex/latex/txfonts/t1txtt.fd
 INPUT c:/texlive/2020/texmf-dist/tex/latex/txfonts/t1txtt.fd
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/t1xtt.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/t1xi.tfm
+=======
+OUTPUT c:/Users/romain.monticelli/Documents/System/bml/systeme.toc
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/t1xb.tfm
+>>>>>>> e735762034f61cccc5cf9096f1c8dc15e1585a54
 INPUT c:/texlive/2020/texmf-dist/fonts/vf/public/txfonts/t1xr.vf
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxptmr.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxr.tfm
@@ -743,10 +799,13 @@ INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxb.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/vf/public/txfonts/t1xr.vf
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxptmr.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxr.tfm
+<<<<<<< HEAD
 INPUT c:/texlive/2020/texmf-dist/fonts/vf/public/txfonts/t1xi.vf
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxptmri.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxi.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/t1xb.tfm
+=======
+>>>>>>> e735762034f61cccc5cf9096f1c8dc15e1585a54
 INPUT c:/texlive/2020/texmf-dist/fonts/vf/public/txfonts/t1xb.vf
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxptmb.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/rtxb.tfm
@@ -761,6 +820,7 @@ INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txsyb.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txsyc.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/txfonts/txexa.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
+<<<<<<< HEAD
 INPUT c:/texlive/2020/texmf-dist/tex/latex/txfonts/ts1txr.fd
 INPUT c:/texlive/2020/texmf-dist/tex/latex/txfonts/ts1txr.fd
 INPUT c:/texlive/2020/texmf-dist/tex/latex/txfonts/ts1txr.fd
@@ -775,8 +835,18 @@ INPUT c:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb
+=======
+INPUT c:/Users/romain.monticelli/Documents/System/bml/systeme.aux
+INPUT c:/Users/romain.monticelli/Documents/System/bml/systeme.out
+INPUT c:/Users/romain.monticelli/Documents/System/bml/systeme.out
+INPUT c:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc
+INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb
+>>>>>>> e735762034f61cccc5cf9096f1c8dc15e1585a54
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/txfonts/txsy.pfb
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmb8a.pfb
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmr8a.pfb
+<<<<<<< HEAD
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmri8a.pfb
+=======
+>>>>>>> e735762034f61cccc5cf9096f1c8dc15e1585a54
