@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}Ouverture d'1C}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Ouverture majeure}{2}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Ouverture d'1NT}{4}{section.3}%
+\contentsline {section}{\numberline {4}Ouverture de 2\textcolor {Red}{$\varheartsuit ${}}{}\ et 2\textcolor {Blue}{$\spadesuit ${}}{}}{5}{section.4}%
+\contentsline {section}{\numberline {5}Ouverture de 2NT}{5}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Le Puppet Stayman}{5}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Les Texas}{6}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Lists}{6}{section.6}%
+\contentsline {section}{\numberline {7}Les barrages et ouvertures à haut palier}{7}{section.7}%
+\contentsline {section}{\numberline {8}Enchères après passes}{7}{section.8}%
+\contentsline {section}{\numberline {9}Enchères de chelem}{7}{section.9}%
+\contentsline {section}{\numberline {10}Défense}{7}{section.10}%
+\contentsline {section}{\numberline {11}Enchères compétitives}{7}{section.11}%
+\contentsline {section}{\numberline {12}Jeu de la carte}{7}{section.12}%
