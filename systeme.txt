@@ -109,7 +109,78 @@
 
 * Ouverture de 1M
 
+% Séquence 1S - 2S - 4H : Splinter ?
+% 1x - X - 2y (au-dessus) : faible ou rencontre ?
+% Cue-bid de l'ouverture majeure : FM ? Développements à discuter
+
 * Ouverture de 1N
+
+1N
+  2C Stayman
+  2D Texas H
+  2H Texas S
+  2S ambigu : 8-9 H reg ou Texas C
+  2N Texas D
+  3C Puppet Stayman
+  3D 6 belles D, 6-7 H sans singleton, NF.
+  3H  5/4m court H, FM
+  3S 5/4m court S, FM
+  3N Pour jouer
+  4C Bic mineur
+    4D fit D
+    4H/ S fit C
+    4N Coup de frein
+  4D  Bic M : certitude de manche ou de chelem
+  4H /S  Pour jouer
+  4N  Quantitatif
+  5C/D  Pour jouer  
+
+  ** Stayman
+
+ Pas utilisé avec des main régulières, FM, 1 seule majeure 4e.
+  Utilisé avec une majeure 5e dans la zone 8-9H.
+
+2C
+  2D Pas de majeure 4e
+    2H Misère dorée : 8-9H et 5H
+    2S Misère dorée : 8-9H et 5S
+    2N 8-9HL, NF
+    3C/D 5C/D, FM, problème pour 3SA ou TDC
+    3H 5S/4H, FM
+    3H 5H/4S, FM
+    4m BIC M TDC, court m
+      4H coup de frein
+      5N BW H
+    4N Quantitatif
+
+  2H 
+    2S Misère dorée : 8-9H et 5S
+    2N 8-9HL, NF
+    3C/D 5C/D, FM, problème pour 3SA ou TDC
+    3H fit H NF
+    3S Fit H TDC
+    4C/D Splinter
+    4N Quantitatif
+  2S
+    2N 8-9HL, NF. L'ouvreur dit 3H max avec 3H pour retrouver le fit en cas de misère dorée
+    3C/D 5C/D, FM, problème pour 3SA ou TDC
+    3H fit S TDC
+    3S Fit S NF
+    4C/D Splinter
+    4N Quantitatif
+  2NT
+    3C Texas H
+    3D Texas S
+    3H TDC
+    3S TDC
+    4C Texas C % Quelle différence ?
+    4D Texas S
+    4C/S to play
+
+
+
+
+
 
 * Ouverture de 2!c
 
@@ -135,12 +206,11 @@ Cette ouverture peut contenir une majeure 5e.
 2N-3C ---
 3D 4!h et/ou 4!s
     3H 4 cartes à !s 
-      3P fit !s
+      3S fit !s
         4X envie de chelem
-      3N 4 cartes à !h 
-        (il est donc nécessaire de passer par 3!h avec 
-        les deux majeures 4e et des envie de chelem)
-        4X fit avec envie de chelem
+      3N 4 cartes à !h (il est donc nécessaire de passer par 3!h avec 
+         les deux majeures 4e et des envies de chelem)
+         4X fit avec envie de chelem
     3S 4 cartes à !h et pas 4 cartes à !s
     3N 3-!h et 3-!s
     4D 4!h et 4!s sans envie de chelem
@@ -160,6 +230,7 @@ Cette ouverture peut contenir une majeure 5e.
   4C 3+!h et ctrl !c (sans ctrl !s)
   4D 3+!h et ctrl !d
   4H 3+!h et tous les ctrl
+
 3H  
   3S 2!s
   3N 5!h et 2!s
@@ -169,8 +240,50 @@ Cette ouverture peut contenir une majeure 5e.
   4D 3+!s et ctrl !d (sans ctrl !c)
   4H 3+!s et ctrl !h
   4S 3+!s et tous les ctrl
-  
+
+3S
+  3N
+    4C/4D Envie ou certitude de chelem à C/D. L'ouvreur décourage par 4SA.
+    4H/S Envie de chelem à H/S. L'ouvreur passe ou demande les clés. Avec certitude de chelem, il faut passer par un texas.
+
+** Autres réponses
+
+4C
+  4D fit D
+  4H fit C et ctrl H
+  4S fit C, ctrl S, pas de ctrl H
+
+4D
+  L'ouvreur choisit sa majeure
+
+4N Minimum, l'ouvreur passe. Maximum, les réponses sont les suivantes :
+  5C 1 ou 4 As
+  5D 0 ou 3 As
+  5H 2 As et 5C
+  5S 2 As et 5D
+  5N 2 As et pas de min 5e
+
+
+
+      
+
+
 * Les barrages et ouvertures à haut palier
+
+** Namyats
+
+4 C/D Cette ouverture montre une couleur H/S 8e fermée ou 7e fermée avec un as.
+      La rectification à la manche est un arrêt et l'enchère juste au-dessus montre un intérêt pour le chelem et demande àl'ouvreur de :
+      /begin{itemize}
+      /item Nommer la manche sans as annexe
+      /item Nommer son as annexe
+      /end {itemize}
+
+** 3SA
+
+Mineure 8e fermée sans rien à côté.
+
+4/5 C/D PoC
 
 * Enchères après passes
 
@@ -178,13 +291,54 @@ Cette ouverture peut contenir une majeure 5e.
 
 * Défense
 
+** Sur le SA fort
+
+** Sur le SA faible
+
+Mohan : Le contre montre une bonne main, meilleure que l'ouverture d'1NT adverse (15+ HCP, à adapter aux vulnérabilités et aux atouts de la main). En réveil, la force du contre doit être équivalente.
+Ensuite, le partenaire enchérit comme si le partenaire avait ouvert d'1NT (en incluant le Stayman faible ? à discuter).
+Après le contre, le camp adverse ne peut jouer un contrat non contré en-dessous de 2S. De plus, le premier contre par chaque joueur en situation forcing est d'appel.
+Sur 1SA - X - 2x : 
+  /begin{itemize}
+  /item contre : des points et court dans la couleur adverse
+  /item passe : des points, mais 3+ cartes dans la couleur adverse
+  /item 2y : faible, pas une main pour défendre
+  /end{itemize}
+
+Autres réponses :
+
+2C Landy
+  2D Choisis ta majeure
+    2M
+      3D fit la majeure nommée, FM
+  2H/S Forcing passe
+  2N Nat NF
+  3C/D Nat NF
+2D Texas H
+  2S/3C Nat NF
+  2N Invit
+2H Texas S
+2S S et une Mineure
+  2N Demande la mineure
+2N Les deux mineures
+
 * Enchères compétitives
 
 * Jeu de la carte
 
 ** L'entame
 
-*** Entame à SA (2-3-4)
+*** Entame à SA
+
+Principe de la quatrième meilleure : 
+
+- Quatrième carte d'une couleur contenant un honneur (le 10 n'est pas considéré comme un honneur, sauf, 109xx ou 10 cinquième)
+
+- Tête de séquence d'une séquence d'au moins trois cartes dont un honneur
+
+- Séquence brisée, le plus gros honneur du début de séquence (A/R/D 109xx - le 10)
+
+- Top of nothing : *x*xx - la plus grosse; x =x= x /x/ 
 
 - Séquence = 3 cartes avec au moins 1 honneur (àpd T).
 
