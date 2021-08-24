@@ -203,6 +203,8 @@
 
 * Ouverture de 2!c
 
+** Définition
+
 - FAIBLE en !d (constructif VUL et en 1ère et 2ème NV) et 11-13 en 4ème
 - 22-24 BAL
 - GAMBLING solide en !c
@@ -257,9 +259,11 @@
     4X GF
   3D 7-11H (Forcing > 4NT si main forte, mêmes dvpts)
   3HS4C NAT + Fit
-  ** Avec les mains TRICOLORES, on reparle toujours sur 3NT.
 
+** Avec les mains TRICOLORES, on reparle toujours sur 3NT.
 
+  Ex : !s - !h ADV8 !d ARD98 !c ARV10
+  (2!c-2!d-2!h-2!s-3!d-3NT-4!c-...)
   
 ** Après interventions
   - Contre punitif
@@ -273,17 +277,180 @@
   - 2!d ambigu
   - Nouvelle couleur F1T
 
-
-
-* Ouverture de 2!c
-
 * Ouverture de 2!d
+
+** Définition
+
+- Unicolore FI
+- Bicolore Majeur FI ou FM
+
+2D-2H 
+2S Montre un bicolore majeur \textbf{+ long à !s}
+  2N Relais 
+    3H 5/5 MAJ FI 18-21 PH
+    3S 6!s/4!h FI 18-21 PH
+    3N 5422 FM
+    4CD Tricolore parfait
+    4H 65 FM
+    4S 74 FM
+    3D 5431 FM
+    3C FM ambigu
+      3D Relais
+        3H 55 FM
+        3S 64 FM
+        3N 5413 FM
+  3CD Aucun intérêt pour les majeures, naturel (pas belle 6e)
+  3HS TDC
+  4HS NF
+
+2D-2H 
+2N Montre un bicolore majeur \textbf{+ long à !h}
+  3C Relais 
+    3D Résidu mineur 31 ou 30
+      3H Relais
+        3S 4513
+        3N 4531
+        4X 4603 ou 4630
+    3H 
+    3S 65 FM
+    3N 5422 FM
+    4CD Tricolore parfait
+    4H 74 FM
+
+2D-2H
+3CDHS ACOL naturel (=FI) Collante ambigue, éventuellement pour tenter de jouer 3NT de la main forte
+    3C
+      3S Ambigu
+        3N pour jouer
+          4H TDC avec cue !s 
+          4N Quantitatif
+      4X Cue, TDC fit !h 
+  3N 9-10 plis en !d avec au moins 2 grosses pièces extérieures
+
+2D
+  2S Naturel 5 cartes avec deux gros honneurs ou 5/5 correct
+  3CDHS Transferts pour unicolores Q+ avec 2 gros honneurs
+        Le soutien ou la rectification du texas montre un intérêt pour la couleur du répondant
+  2N 5/5 Mineur FM
+
+** Après intervention en 2e
+
+*** Contre 
+
+- Punitif si intervention au palier de 2
+- Appel si intervention au palier de 3 ou plus
+
+*** Passe RAS
+
+Ensuite, contre de l'ouvreur est punitif au niveau de 2 et montre le bicolore majeur ou une demande d'arrêt au niveau de 3.
+
+*** 3!c!d!h!s Transferts (Transfert cue - Tricolore court)
+
+*** 2NT Bicolore mineur
+
+*** Après 2!d - X
+
+- Passe : envie de jouer
+- Tout le reste sauf 2!h : Naturel
+- XX : Naturel (4 belles cartes, pas 5 ou 6)
+
+
+** Après intervention en 4e
+
+- PASSE, CUE-BID et ENCHERES A SAUT montrent le BICOLORE MAJEUR JUSQU’À 3!s.
+
+- CONTRE demande l’arrêt
+
+** Corollaires (à vérifier avec Gazilli !)
+
+1S-1NT 
+3H montre un 5=/4= dans la zone 18-21H 
+
+1S-1NT 
+4H montre un 6/5 de 14 à 17H 
+
+1H-1NT 
+3S montre un 6/5 de 14 à 17H, c’est NF !
 
 * Ouverture de 2!h et 2!s
 
+A compléter, pour cette année => Voir livre rouge
+
 * Ouverture de 2NT
 
+Cette ouverture peut contenir une majeure 5e.
 
+2N---
+3C  Puppet Stayman
+3D  Texas !h
+3H  Texas !s
+3S  Texas pour 3N
+3N  5!s et 4!h
+4C Bicolore mineur TDC
+4D Bicolore majeur, limité à la manche ou certitude de chelem
+
+** Le Puppet Stayman
+
+2N-3C ---
+3D 4!h et/ou 4!s
+    3H 4 cartes à !s 
+      3S fit !s
+        4X envie de chelem
+      3N 4 cartes à !h (il est donc nécessaire de passer par 3!h avec 
+         les deux majeures 4e et des envies de chelem)
+         4X fit avec envie de chelem
+    3S 4 cartes à !h et pas 4 cartes à !s
+    3N 3-!h et 3-!s
+    4D 4!h et 4!s sans envie de chelem
+3H 5!h
+3S 5!s
+3N 3-!h et 3-!s
+
+** Les Texas
+
+2N---
+3D  
+  3H 2!h
+  3S 5!s et 2!h
+    4C/4D ctrl !c/!d et fit !s
+    4H/4S Arrêt
+  3N 3+!h et ctrl !s
+  4C 3+!h et ctrl !c (sans ctrl !s)
+  4D 3+!h et ctrl !d
+  4H 3+!h et tous les ctrl
+
+3H  
+  3S 2!s
+  3N 5!h et 2!s
+    4C/4D ctrl !c/!d et fit !h
+    4H/4S Arrêt
+  4C 3+!s et ctrl !c 
+  4D 3+!s et ctrl !d (sans ctrl !c)
+  4H 3+!s et ctrl !h
+  4S 3+!s et tous les ctrl
+
+3S
+  3N
+    4C/4D Envie ou certitude de chelem à !c/!d. L'ouvreur décourage par 4SA.
+    4H/S Envie de chelem à !h/!s. L'ouvreur passe ou demande les clés. 
+         Avec certitude de chelem, il faut passer par un texas.
+
+** Autres réponses
+
+4C
+  4D fit !d
+  4H fit !c et ctrl !h
+  4S fit !c, ctrl !s, pas de ctrl !h
+
+4D L'ouvreur choisit sa majeure
+
+4N Minimum, l'ouvreur passe. 
+   Maximum, les réponses sont les suivantes :
+  5C 1 ou 4 As
+  5D 0 ou 3 As
+  5H 2 As et 5C
+  5S 2 As et 5D
+  5N 2 As et pas de min 5e
 
 * Les barrages et ouvertures à haut palier
 
