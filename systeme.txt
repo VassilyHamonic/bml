@@ -115,7 +115,7 @@
 * Ouverture de 1NT
 
 1N
-  2C Stayman
+  2C Stayman // tentative de commentaire
   2D Texas !h
   2H Texas !s
   2S ambigu : 8-9 H REG ou Texas !c
@@ -172,11 +172,11 @@
     3D Texas !s
     3H TDC
     3S TDC
-    4C Texas !h % Quelle différence ?
+    4C Texas !h
     4D Texas !s
     4HS to play 
 
-% Quand utiliser quelle réponse ?
+// Quand utiliser quelle réponse ?
 
     4C Texas C
     4D Texas S
@@ -197,7 +197,7 @@
       3H !h/!s 
   2N Relais FM. Soit BIC 5!h/4m, soit Unicolore !h TDC 
     3C 2 cartes à !h
-      
+
     3H 3 cartes, pas intéressé par m donc sans 4m 
 
 
