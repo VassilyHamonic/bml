@@ -1,14 +1,20 @@
 SECTIONS TO BE DONE:
 
-    -
-    -
+    - Ouverture 1M 
+    - 2M
+    - Enchères après passe
+    - Enchères de Chelem
+    - Défense 1SA fort
+    - Reste défense
+
 
 SECTIONS TO BE MODIFIED:
 
-    -
-    -
+    - FMI et reste 1m 
+    - Jeu de la carte
+    - Fin ouverture 1SA
 
 SECTIONS TO BE CHECKED:
 
-    -
+    - everything
     -
