@@ -1,0 +1,77 @@
+* Ouverture de 2!c
+
+** Définition
+
+- FAIBLE en !d (constructif VUL et en 1ère et 2ème NV) et 11-13 en 4ème
+- 22-24 BAL
+- GAMBLING solide en !c
+- FM sauf Bicolores Majeurs
+
+2C--
+  2D relais
+    P FAIBLE !d
+    2H 24+ balancé
+       Bicolore avec au moins 4!h
+       Unicolore !h balancé 22-25
+      2S relais
+        2N 25H et + (développements comme sur 2N)
+        3C 5+!c, =4!h
+        3D 5+!d, =4!h
+        3H 5+!h, 4+!c
+        3S 5+!h, 4+!d
+        3N Unicolore !h Gambling (style régulier avec 6/7!h plein et 2 As)
+        4CD 6!h/5m moins fort que 3!h suivi de 4!c (5+/5)
+            Ex: !s 2 !h ADV987 !d 8 !c ARDT2
+    2S Bicolore avec 4+!s
+       Unicolore !s balancé 22-25
+      2N relais
+        3C 5+!c, =4!s
+        3D 5+!d, =4!s
+        3H 5+!s, 4+!c
+        3S 5+!s, 4+!d
+        3N Unicolore !s Gambling
+        4CD 6!s/5m moins fort que 3!s suivi de 4!c (5+/5)
+    2N 22+ - 24H
+    3CD Unicolores ou bicolore mineur (la collante est ambigue)
+    3HS Unicolores irréguliers
+    3N Gambling !c
+    4CD Bicolores 6/5m !h (6!h-5!c/!d + faible que 2!c-2!d-2!h-2!s-4!c/!d)
+    4HS Bicolores 6/5m !s (pareil)
+  2HS3C F1T (pas forcing en paires !)
+        Nouvelle couleur GF
+    2N Max misfit
+    3D Min
+    3x/4x Fit, Splinters mains faibles
+  2N Relais F1 avec espoir de manche en face d’un faible à !d
+    3C faible !d et une courte
+      3D NF courte s’annonce par paliers si max 
+         (=> Passe si min du faible, annonce la courte par palier si max du faible)
+    3D faible !d sans courte
+    3H Max pièce !c/!h, pas de courte
+      3P relais
+        3N court !c
+        4C court !h
+    3S Max force sans courte
+    3N beaux !d ARD ou ARVT sans courte
+    4X GF
+  3D 7-11H (Forcing > 4NT si main forte, mêmes dvpts)
+  3HS4C NAT + Fit
+
+** Avec les mains TRICOLORES, on reparle toujours sur 3NT.
+
+  Ex : !s - !h ADV8 !d ARD98 !c ARV10
+  (2!c-2!d-2!h-2!s-3!d-3NT-4!c-...)
+  
+** Après interventions
+  
+  - Contre punitif
+  - Toute enchère F1T
+  - 2NT R fort
+  - Cue demande d'arret
+
+** Après contre
+  
+  - Passe des !c!
+  - Surcontre FORT ou UNICOLORE
+  - 2!d ambigu
+  - Nouvelle couleur F1T

@@ -1,0 +1,99 @@
+* Ouverture de 1m
+
+** Le Walsh
+
+  À partir de 2 cartes. Le Walsh, basé sur le principe "la majeure d'abord", consistant à ne présenter les !d que dans les mains fortes ou sans majeures, est utilisé.
+  En cas de fit fort sans majeure, le fit mineur inversé est utilisé.
+
+  1C---
+  1D   3 possibilités : 
+       4+!d et inv+
+       5+!d, 3-!h!s et 6-10H
+       BAL 5-7H et 3-!h!s
+  1H   !h/4+ (possibilité de !d plus longs que !h si <11h)
+  1S   !s/4+ (possibilité de !d plus longs que !s si <11h)
+  1N   8-10 3-!h!s
+  2C   FMI : fit !c, 10+ (voir développements plus loin)
+  2D   6+!d (et 2GH), 18H+
+  2H   5+!s 4+!h, 5-8H, idem sur 1!d
+  2S   5+!s 4+!h, 9-10H, idem sur 1!d
+  2N	 11-12 BAL (3!c NF, reste FM)
+  3C	 5!c, main irrégulière ~5-9 H
+  3X	 Barrage 7 cartes
+  3N	 12-14 BAL
+ 
+
+** La séquence 1!c - 1!d
+
+  1C-1D;
+  1M 12-17 H, M/4 Main irrégulière (5!c)
+  1H 
+    1S 4eme couleur forcing 
+       (L’ouvreur réagit comme sur une enchère NAT mais ne peut pas dire 4!s) 
+      2S 12-14 
+      3S 15+
+        3N SO
+        4X cue fit !s
+    2S 5!d4!s FM
+  1N 12-14 H, BAL
+    2C checkback stayman avec des mains INV+
+      2X
+        3C 5!d5!c FM (fit différé)
+        3D 6+!d FM
+      2D Pas de M/4
+      2H 4!h (avec ou sans 4!s)
+      2S 4!s
+    3C 5!d4!c INV
+    3D 6!d INV
+
+** La séquence 1!c - 1M 
+
+  1C-1M;
+  1N
+    2D  5!d4M faible to play
+  2C
+    2D  3eme couleur forcing
+
+** La séquence 1m - 1M
+  
+  1m-1M;
+  2N pas de fit
+    3C réponses dans l'ordre, style Baron
+      3D 5m
+      3M 3M
+      3M' 4M'
+      3N aucun des cas précédents
+    3D fit dans la m (FM ou TDC)
+    3M NAT NF
+    3M' BIC (55 ou 65) FM
+    3N SO
+    4m/M' cue avec atout M
+    4H (sur 1!s) BIC NF
+    4M SO
+    4N quantitatif
+  3N fit main régulière
+  4(3)M’ splinter
+  4m’ splinter
+  4m 5+m 4+M
+  4M main extrêmement irrégulière avec peu de points d’honneurs
+     
+** La séquence 1m - 2!h
+
+** La séquence 1m - 2!s
+
+** La séquence 1!d - 2!c
+
+  1D-2C;
+  2D irrégulier 11-15, BAL 12-13
+  2M inversée NAT
+  2N BAL 14 ou 18-19 
+    3C relais
+      3D 18-19, le reste NAT 14
+  3C 16+ PJS Fit 4ème ou 18-19 et 3 cartes
+  3D 6+!d, 16+ problème dans une ou deux M
+  3M 65 sans inversée
+  3N 6+!d, 16+ avec les arrêts M
+
+** Le fit mineur inversé
+
+** Enchère du répondant après une inversée

@@ -1,0 +1,32 @@
+* Défense
+
+** Sur le SA fort
+
+** Sur le SA faible
+
+Mohan : Le contre montre une bonne main, meilleure que l'ouverture d'1NT adverse (15+ HCP, à adapter aux vulnérabilités et aux atouts de la main). En réveil, la force du contre doit être équivalente.
+Ensuite, le partenaire enchérit comme si le partenaire avait ouvert d'1NT (en incluant le Stayman faible ? à discuter).
+Après le contre, le camp adverse ne peut jouer un contrat non contré en-dessous de 2S. De plus, le premier contre par chaque joueur en situation forcing est d'appel.
+Sur 1SA - X - 2x : 
+  /begin{itemize}
+  /item contre : des points et court dans la couleur adverse
+  /item passe : des points, mais 3+ cartes dans la couleur adverse
+  /item 2y : faible, pas une main pour défendre
+  /end{itemize}
+
+Autres réponses :
+
+2C Landy
+  2D Choisis ta majeure
+    2M
+      3D fit la majeure nommée, FM
+  2H/S Forcing passe
+  2N Nat NF
+  3C/D Nat NF
+2D Texas H
+  2S/3C Nat NF
+  2N Invit
+2H Texas S
+2S S et une Mineure
+  2N Demande la mineure
+2N Les deux mineures

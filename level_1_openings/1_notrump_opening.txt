@@ -1,0 +1,124 @@
+* Ouverture de 1NT
+
+1N
+  2C Stayman // tentative de commentaire
+  2D Texas !h
+  2H Texas !s
+  2S ambigu : 8-9 H REG ou Texas !c
+  2N Texas !d
+  3C Puppet Stayman
+  3D 6 belles !d, 6-7 H sans singleton, NF.
+  3H  5/4m court !h, FM
+  3S 5/4m court !s, FM
+  3N Pour jouer
+  4C Bic mineur
+    4D fit !d
+    4HS fit !c
+    4N Coup de frein
+  4D  Bic M : certitude de manche ou de chelem
+  4HS  Pour jouer
+  4N  Quantitatif
+  5CD  Pour jouer
+
+** Stayman
+
+ Pas utilisé avec des main régulières, FM, 1 seule majeure 4e.
+  Utilisé avec une majeure 5e dans la zone 8-9H.
+
+2C
+  2D Pas de majeure 4e
+    2H Misère dorée : 8-9H et 5!h
+    2S Misère dorée : 8-9H et 5!s
+    2N 8-9HL, NF
+    3CD 5!c/!d, FM, problème pour 3SA ou TDC
+    3H 5!s/4!h, FM
+    3H 5!h/4!s, FM
+    4m BIC M TDC, court m
+      4M coup de frein
+      4N BW !h
+    4N Quantitatif
+
+  2H 
+    2S Misère dorée : 8-9H et 5!s
+    2N 8-9HL, NF
+    3CD 5!c/!d, FM, problème pour 3SA ou TDC
+    3H fit !h NF
+    3S Fit !s TDC
+    4CD Splinter
+    4N Quantitatif
+  2S
+    2N 8-9HL, NF. L'ouvreur dit 3!h max avec 3!h pour retrouver le fit en cas de misère dorée
+    3CD 5!c/!d, FM, problème pour 3SA ou TDC
+    3H fit !s TDC
+    3S Fit !s NF
+    4CD Splinter
+    4N Quantitatif
+  2NT
+    3C Texas !h 
+    3D Texas !s
+    3H TDC
+    3S TDC
+    4C Texas !h
+    4D Texas !s
+    4HS to play 
+
+// Quand utiliser quelle réponse ?
+
+    4C Texas C
+    4D Texas S
+    4C/S to play
+
+** 1NT - 2!d : Texas !h
+
+Remarques : 
+
+- Avec 4 cartes à !h et minimum, 4333 on rectifie le plus souvent à 3!h
+- avec 4 cartes à !h et maximum, on rectifie à 2NT 
+
+1NT-2D
+2C
+  2S Bicolore 5!h/5x dans la zone 6-7H pour trouver une manche miracle
+    2N Relais 
+      3C !h/!c 
+      3D !h/!d 
+      3H !h/!s 
+  2N Relais FM. Soit BIC 5!h/4m, soit Unicolore !h TDC 
+    3C 2 cartes à !h
+      3D Singleton !s 
+        3H 
+          3S les !c
+          3N les !d NF
+          4C les !d Forcing
+      3H Singleton !c 
+      3S singleton !d 
+      3N 5!h4m22 honneurs concentrés
+      4CDH contrôle, unicolore !h TDC
+    3H 3 cartes, pas intéressé par m donc sans 4m 
+  3m BIC 5+!h/5+m, TDC (au moins 11H concentrés). Sans ambition de chelem, le 5/5 sera traité comme un 5/4
+  3S/4C/4D Splinter
+  4N Quantitatif 16-17 HL - 5332
+
+  ** 1NT - 2!h : Texas !s
+
+Remarques : 
+
+- avec 4 cartes à !s et maximum, on rectifie à 2NT 
+
+1NT-2H
+2S
+  2N Relais FM. Soit BIC 5!s/4m, soit Unicolore !s TDC 
+    3C 2 cartes à !h
+      3D Singleton !h 
+        3H 
+          3S les !c
+          3N les !d NF
+          4C les !d Forcing
+      3H Singleton !c 
+      3S singleton !d 
+      3N 5!s4m22 honneurs concentrés
+      4CDH contrôle, unicolore !s TDC
+    3S 3 cartes, pas intéressé par m donc sans 4m 
+  3m BIC 5+!s/5+m, TDC (au moins 11H concentrés). Sans ambition de chelem, le 5/5 sera traité comme un 5/4
+  3H BIC majeur fort
+  3S/4C/4D Splinter
+  4N Quantitatif 16-17 HL - 5332

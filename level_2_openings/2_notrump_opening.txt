@@ -1,0 +1,75 @@
+* Ouverture de 2NT
+
+Cette ouverture peut contenir une majeure 5e.
+
+2N---
+3C  Puppet Stayman
+3D  Texas !h
+3H  Texas !s
+3S  Texas pour 3N
+3N  5!s et 4!h
+4C Bicolore mineur TDC
+4D Bicolore majeur, limité à la manche ou certitude de chelem
+
+** Le Puppet Stayman
+
+2N-3C ---
+3D 4!h et/ou 4!s
+    3H 4 cartes à !s 
+      3S fit !s
+        4X envie de chelem
+      3N 4 cartes à !h (il est donc nécessaire de passer par 3!h avec 
+         les deux majeures 4e et des envies de chelem)
+         4X fit avec envie de chelem
+    3S 4 cartes à !h et pas 4 cartes à !s
+    3N 3-!h et 3-!s
+    4D 4!h et 4!s sans envie de chelem
+3H 5!h
+3S 5!s
+3N 3-!h et 3-!s
+
+** Les Texas
+
+2N---
+3D  
+  3H 2!h
+  3S 5!s et 2!h
+    4C/4D ctrl !c/!d et fit !s
+    4H/4S Arrêt
+  3N 3+!h et ctrl !s
+  4C 3+!h et ctrl !c (sans ctrl !s)
+  4D 3+!h et ctrl !d
+  4H 3+!h et tous les ctrl
+
+3H  
+  3S 2!s
+  3N 5!h et 2!s
+    4C/4D ctrl !c/!d et fit !h
+    4H/4S Arrêt
+  4C 3+!s et ctrl !c 
+  4D 3+!s et ctrl !d (sans ctrl !c)
+  4H 3+!s et ctrl !h
+  4S 3+!s et tous les ctrl
+
+3S
+  3N
+    4C/4D Envie ou certitude de chelem à !c/!d. L'ouvreur décourage par 4SA.
+    4H/S Envie de chelem à !h/!s. L'ouvreur passe ou demande les clés. 
+         Avec certitude de chelem, il faut passer par un texas.
+
+** Autres réponses
+
+4C
+  4D fit !d
+  4H fit !c et ctrl !h
+  4S fit !c, ctrl !s, pas de ctrl !h
+
+4D L'ouvreur choisit sa majeure
+
+4N Minimum, l'ouvreur passe. 
+   Maximum, les réponses sont les suivantes :
+  5C 1 ou 4 As
+  5D 0 ou 3 As
+  5H 2 As et 5C
+  5S 2 As et 5D
+  5N 2 As et pas de min 5e

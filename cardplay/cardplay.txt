@@ -1,0 +1,175 @@
+* Jeu de la carte
+
+** L'entame
+
+*** Entame à SA
+
+Principe de la quatrième meilleure : 
+
+- Quatrième carte d'une couleur contenant un honneur (le 10 n'est pas considéré comme un honneur, sauf, 109xx ou 10 cinquième)
+
+- Tête de séquence d'une séquence d'au moins trois cartes dont un honneur
+
+- Séquence brisée, le plus gros honneur du début de séquence (A/R/D 109xx - le 10)
+
+- Top of nothing : *x*xx - la plus grosse; x =x= x /x/ 
+
+- Séquence = 3 cartes avec au moins 1 honneur (àpd T).
+
+**** Entame dans sa propre couleur longue:
+  
+- Séquence complète : tête de séquence
+- Séquence incomplète : tête de séquence
+- Séquence brisée RVT-DT9
+
+**** Couleur de 3 cartes avec mini séquence: 
+
+- Tête de séquence
+
+**** Entame dans la couleur des adversaires (pas le choix) :
+  
+- Si celle du déclarant : la couleur doit être longue et belle
+- Si celle du mort : si on a peu de cartes et pas d’honneur dans la couleur (doubleton avec honneur OK)
+
+**** Pas de séquence dans couleur longue: 
+
+- Entame 4ème meilleure (promet au moins 1 honneur)
+
+**** Si 2 couleurs longues: 
+
+- Prendre la plus belle (= la plus facilement affranchissable)
+
+**** Si couleur longue mais pas belle: 
+
+- On entame la 2ème (9753 : on prend le 7)
+
+**** Dans la couleur du partenaire: 
+  
+  - Avec 2 cartes qui se suivent avec honneur, tête de séquence SINON pair-impaire
+  - Si couleur 4ème du partenaire, on entame la 2ème (Alain entame la 3ème)
+
+**** Couleur de 3 cartes sans séquence:
+
+  - pas d’honneur : la + haute
+  - si 1 honneur : celle du milieu
+  Remarque : Qd on entame un honneur c’est toujours une tête de séquence, jamais une 4ème meilleure
+
+**** Entames particulières à SA
+
+-	AS : (on promet le roi et peu de cartes) Qd on estime qu’on n’a pas d’entame ailleurs évidente : on regarde le mort, ce qu’il se passe et la carte du partenaire.
+-	ROI : on a au moins 5 cartes et au moins 3 honneurs, demande le déblocage de la part du partenaire.
+
+Attention exception : couleur 5ème sans reprise et qu’on espère une reprise du partenaire, on peut entamer petit
+
+-	Dame (DVT, DV9, ou si on a le roi = RD98)
+
+*** Entame à la couleur
+
+**** Bonne entame:
+
+1.	AS R
+2.	Singleton
+3.	Couleur du partenaire
+4.	Tête de séquence
+
+**** Entame à éviter:
+
+1.	Sous l’as
+2.	L’as sans le roi
+3.	Singleton atout
+4.	Honneur doubleton (V second à la rigueur)
+5.	Fourchette d’honneur
+
+**** Entame neutre:
+
+1.	Atout (quand on a des petits atouts) : entame bonne si fit 44 chez les adversaires (le Roi 3e peut par exemple être une bonne entame dans ce cas). Faire attention à la séquence d’enchères (exemple : si un fit différé a été annoncé, on a probablement une longue et belle couleur chez les adversaires, pouvant générer beaucoup de levées, une entame agressive peut du coup être plus indiquée qu’une entame neutre)
+2.	Tête de mini séquence
+3.	Parité
+
+**** Entame particulière à la couleur
+
+1.	AS : promet le roi et couleur courte
+2.	ROI : promet AS ou Dame et une couleur plutôt longue
+
+*** Carte en 3ème à SA
+
+**** Carte obligatoire:
+
+-	La plus haute mais la plus basse des équivalentes (en regardant les cartes du mort)
+-	Déblocage sur entame du roi
+
+Remarque : si mort a un singleton on n’est pas obligés de débloquer et on appelle par une petite
+
+*** Signalisation:
+
+**** Attitude: 
+
+- J’aime bien ou je n’aime pas. On appelle par des petites (sur entame d’As ou de D), si pas de carte obligatoire à fournir.
+
+Ex : Entame Dame et il y 3 petit au mort et j’ai T82, je dois appeler du 2 !!!
+Ex : T, R du mort, J’ai D3ème alors je mets une petite carte
+Attention, s’il faut jeter une grosse carte elle doit être sans intérêt !!!
+
+**** Parité
+
+Ex : entame R, je n’ai rien à débloquer alors je montre ma parité
+
+**** Sur l’entame d’une petite carte
+
+-	honneur absent : la plus haute
+-	honneur fourni : la plus haute (si on entame d’une petite et qu’on fournit un gros honneur du mort, avec une séquence d’honneur on fournit la + haute)
+-	honneur non fourni : garder un honneur, carte équivalente
+Attention remarque… Mais quoi ?
+
+**** Sur l’entame d’un honneur
+
+-	ROI : Déblocage, Parité
+-	AS : on appelle avec des couleurs longues (le partenaire est court) et pas des honneurs
+-	DAME, VALET : Attitude (on dit qu’on aime quand on a des honneurs car son entame provient souvent d’une longue)
+
+**** Le mort est maitre
+
+-	Attitude
+-	la + haute des équivalentes
+
+**** Le mort est court
+
+-	attitude
+-	le plus haut des honneurs équivalent
+
+**** Carte en 3ème position à la couleur
+
+-	Carte obligatoire : la plus haute
+-	Signalisation : attitude (on appelle avec un honneur), parité, préférence (en Lavinthal, concerne les autres couleurs, utilisée si singleton au mort)
+-	Autre possibilité de préférence (attention, délicat à utiliser) : si le partenaire sait qu’on possède beaucoup de cartes dans la couleur (vu la séquence d’enchères), alors on montre la préférence avec des cartes paires. Avec les impaires, soit pas de préférence, soit un intérêt pour raccourcir le mort. Attention aux choix forcés !
+
+**** Sur entame d’une petite carte
+
+-	Honneur absent : la + haute
+-	Honneur fourni : la plus haute
+-	Honneur non fourni : attitude
+
+**** Sur l’entame d’un honneur
+
+-	Roi : Parité, préférence
+-	As : Attitude (on appelle si on a la dame), préférence
+-	Dame valet : attitude, préférence (si le mort est court)
+
+**** Si le mort est maitre
+
+-	Attitude
+-	le + haut des honneurs équivalents
+
+**** Si le mort est court
+
+-	Préférence
+
+*** Analyse de la première levée
+
+-	Enchère
+-	Carte du partenaire
+-	Carte obligatoire
+-	Signaux
+-	Déclarant
+-	Plan général de la défense
+Remarque : Il faut se faire une idée du jeu de partenaire dès la première carte fournie et ne pas attendre la 2ème carte, déjà réfléchir à son plan de défense pendant que le déclarant fait son plan de jeu (ainsi que se décider sur quelle carte mettre lorsqu’il va attaquer certaines couleurs)…

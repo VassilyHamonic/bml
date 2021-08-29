@@ -1,0 +1,94 @@
+* Ouverture de 2!d
+
+** Définition
+
+- Unicolore FI
+- Bicolore Majeur FI ou FM
+
+2D-2H 
+2S Montre un bicolore majeur \textbf{+ long à !s}
+  2N Relais 
+    3H 5/5 MAJ FI 18-21 PH
+    3S 6!s/4!h FI 18-21 PH
+    3N 5422 FM
+    4CD Tricolore parfait
+    4H 65 FM
+    4S 74 FM
+    3D 5431 FM
+    3C FM ambigu
+      3D Relais
+        3H 55 FM
+        3S 64 FM
+        3N 5413 FM
+  3CD Aucun intérêt pour les majeures, naturel (pas belle 6e)
+  3HS TDC
+  4HS NF
+
+2D-2H 
+2N Montre un bicolore majeur \textbf{+ long à !h}
+  3C Relais 
+    3D Résidu mineur 31 ou 30
+      3H Relais
+        3S 4513
+        3N 4531
+        4X 4603 ou 4630
+    3H 
+    3S 65 FM
+    3N 5422 FM
+    4CD Tricolore parfait
+    4H 74 FM
+
+2D-2H
+3CDHS ACOL naturel (=FI) Collante ambigue, éventuellement pour tenter de jouer 3NT de la main forte
+    3C
+      3S Ambigu
+        3N pour jouer
+          4H TDC avec cue !s 
+          4N Quantitatif
+      4X Cue, TDC fit !h 
+  3N 9-10 plis en !d avec au moins 2 grosses pièces extérieures
+
+2D
+  2S Naturel 5 cartes avec deux gros honneurs ou 5/5 correct
+  3CDHS Transferts pour unicolores Q+ avec 2 gros honneurs
+        Le soutien ou la rectification du texas montre un intérêt pour la couleur du répondant
+  2N 5/5 Mineur FM
+
+** Après intervention en 2e
+
+*** Contre 
+
+- Punitif si intervention au palier de 2
+- Appel si intervention au palier de 3 ou plus
+
+*** Passe RAS
+
+Ensuite, contre de l'ouvreur est punitif au niveau de 2 et montre le bicolore majeur ou une demande d'arrêt au niveau de 3.
+
+*** 3!c!d!h!s Transferts (Transfert cue - Tricolore court)
+
+*** 2NT Bicolore mineur
+
+*** Après 2!d - X
+
+- Passe : envie de jouer
+- Tout le reste sauf 2!h : Naturel
+- XX : Naturel (4 belles cartes, pas 5 ou 6)
+
+
+** Après intervention en 4e
+
+- PASSE, CUE-BID et ENCHERES A SAUT montrent le BICOLORE MAJEUR JUSQU’À 3!s.
+
+- CONTRE demande l’arrêt
+
+** Corollaires (à vérifier avec Gazilli !)
+
+1S-1NT 
+3H montre un 5=/4= dans la zone 18-21H 
+
+1S-1NT 
+4H montre un 6/5 de 14 à 17H 
+
+1H-1NT 
+3S montre un 6/5 de 14 à 17H, c’est NF !
