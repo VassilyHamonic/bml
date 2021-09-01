@@ -303,6 +303,7 @@ def include_file(matchobj):
     text = ''
     with open(filename, 'r') as f:
         text = f.read()
+        text = re.sub(r'^\s*#\s*INCLUDE\s*(\S+)\s*\n?', include_file, text, flags=re.MULTILINE)
     return '\n' + text + '\n'
 
 def content_from_file(filename):

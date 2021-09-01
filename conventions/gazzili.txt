@@ -1,0 +1,44 @@
+* Le gazzili
+
+1H-1S--
+1N BAL 12-15 (2!c Roudi, Reste Nat)
+2C Gazilli : Soit NAT, soit Fort
+  2D 8+PH, FM si ouvreur fort. Tout le reste est plus faible, sauf 3M.
+    2H 5!h4!c 12-16 NF. Ensuite, Passe ou NAT Inv+
+    2S 3 cartes à !s
+      2N Relais
+        3m 5!h4m3!s
+        3H 6!h3!s 6 levées
+        3S BAL 15-17 avec 3!s
+        3N BAL 18-19 avec 3!s
+    2N BAL (54m22 / 5332) 15-16 sans 3!s
+    3m 5!h4m 17+ (ou 5!h5m 5 perdantes)
+    3H 6!h3!s 6 levées
+    3S 5+!h4!s 15-17 
+      3N demande de courte
+      4x cue
+    3N BAL (54m22 / 5332) 16+-17 sans 3!s
+  2H Préférence
+  2S 5!s court !h ou 6+!s
+  2N 5!d4!s court !h (ensuite 3m préférence NF).
+  3C Préférence
+  3D 6+!d
+  3H Fit différé
+  3S INV
+2x NAT (Sur la répétition à 2!h, 3!h est Inv)
+2N 6!h/4x ou 6!h/3!s
+  3C Relais
+    3D 6!h4!d
+    3H 6!h3!s
+    3S 6!h4!s
+    3N 6!h4!c
+3m 55 4 perdantes
+3H 6+!h sans 3!s, 7 levées
+3S 5!h4!s 18-20
+  3N demande de courte
+  4x cue
+3N BAL 18-19 sans 3!s
+4m Fit 20+PJS, Splinter
+4H Sign-off
+4S Fit distributionnel
+

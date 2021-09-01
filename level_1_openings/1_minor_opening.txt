@@ -94,6 +94,6 @@
   3M 65 sans inversée
   3N 6+!d, 16+ avec les arrêts M
 
-** Le fit mineur inversé
+#INCLUDE conventions/minor_inverted_fit.txt
 
 ** Enchère du répondant après une inversée
