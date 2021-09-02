@@ -1,7 +1,64 @@
 * Ouverture de 1M
 
+#CUT fit_invit_or_more
+3H 15-17
+  3S Relais
+    3N Pas de courte
+    4x Court x
+3S 18+ avec une courte
+  3N Relai
+    4x Court x
+3N 18-19 BAL
+4x Bic (4!h après 1!h = 6!h5!s, 4!s après 1!s = 6!s5!h)
+#ENDCUT
+
 //Séquence 1S - 2S - 4H : Splinter ?
 //1x - X - 2y (au-dessus) : faible ou rencontre ?
 //Cue-bid de l'ouverture majeure : FM ? Développements à discuter
+
+** 2NT Fitté par 3 cartes 11+
+
+1M-2N
+3C  12-14 avec une courte
+  3D Relais
+    3H Court !c
+    3S Court !d
+    3N Court M'
+  3M Invit
+3D 12-14 Pas de courte
+  3M Invit
+
+** 3!c Fitté par 4 cartes 11+
+
+1M-3C
+3D  12-14
+  3M Invit
+  3M' Relais
+    3S (sur 3!h) court !h
+    3N Pas de courte
+    4C Court !c
+    4D Court !d
+    4H (sur 3!s) court !s
+
+** 3!d Fitté par 4 cartes 11+
+
+1H-3D
+3S Demande de courte
+  3N Pas de courte
+    4C Court !c
+    4D Court !d
+    4H Court !s
+3N Force à !s
+4CD Forces
+
+1S-3D
+3H Force à !h
+3N Demande de courte
+  4C Court !c
+  4D Court !d
+  4H Court !h
+4CDH Forces
+
+// TODO redondance entre 3 et 4 C dans la séquence
 
 #INCLUDE conventions/gazzili.txt

@@ -64,8 +64,8 @@
 
 // Quand utiliser quelle réponse ?
 
-    4C Texas C
-    4D Texas S
+    4C Texas !h
+    4D Texas !s
     4C/S to play
 
 ** 1NT - 2!d : Texas !h
@@ -98,7 +98,7 @@ Remarques :
   3S/4C/4D Splinter
   4N Quantitatif 16-17 HL - 5332
 
-** 1NT - 2!h : Texas !s
+  ** 1NT - 2!h : Texas !s
 
 Remarques : 
 

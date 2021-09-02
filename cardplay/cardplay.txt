@@ -140,7 +140,7 @@ Attention remarque… Mais quoi ?
 **** Carte en 3ème position à la couleur
 
 -	Carte obligatoire : la plus haute
--	Signalisation : attitude (on appelle avec un honneur), parité, préférence (en Lavinthal, concerne les autres couleurs, utilisée si singleton au mort)
+//-	Signalisation : attitude (on appelle avec un honneur), parité, préférence (en Lavinthal, concerne les autres couleurs, utilisée si singleton au mort)
 -	Autre possibilité de préférence (attention, délicat à utiliser) : si le partenaire sait qu’on possède beaucoup de cartes dans la couleur (vu la séquence d’enchères), alors on montre la préférence avec des cartes paires. Avec les impaires, soit pas de préférence, soit un intérêt pour raccourcir le mort. Attention aux choix forcés !
 
 **** Sur entame d’une petite carte
