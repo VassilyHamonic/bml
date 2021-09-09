@@ -1,8 +1,8 @@
-#+TITLE: Système Monticelli's
+#+TITLE: Système Peripalias
 
-#+AUTHOR: Thomas et Romain Monticelli
+#+AUTHOR: Xavier Régimont & Romain Bernard (avec l'aide des Montis)
 
-#+DESCRIPTION: Short club with transfer responses.
+#+DESCRIPTION: Short club.
 
 * Introduction
 
