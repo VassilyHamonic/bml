@@ -173,3 +173,7 @@ Attention remarque… Mais quoi ?
 -	Déclarant
 -	Plan général de la défense
 Remarque : Il faut se faire une idée du jeu de partenaire dès la première carte fournie et ne pas attendre la 2ème carte, déjà réfléchir à son plan de défense pendant que le déclarant fait son plan de jeu (ainsi que se décider sur quelle carte mettre lorsqu’il va attaquer certaines couleurs)…
+** Défausses
+
+- Première défausse italienne : impaire appelle dans la couleur, paire refuse la couleur (petite carte pour appeler la + basse des couleurs restantes, haute carte paire pour appeler la + haute des couleurs restantes)
+
