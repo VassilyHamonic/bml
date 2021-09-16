@@ -14,7 +14,7 @@ Principe de la quatrième meilleure :
 
 - Top of nothing : *x*xx - la plus grosse; x =x= x /x/ 
 
-- Séquence = 3 cartes avec au moins 1 honneur (àpd T).
+- Séquence = 3 cartes avec au moins 1 honneur (àpd 10).
 
 **** Entame dans sa propre couleur longue:
   
@@ -46,7 +46,7 @@ Principe de la quatrième meilleure :
 **** Dans la couleur du partenaire: 
   
   - Avec 2 cartes qui se suivent avec honneur, tête de séquence SINON pair-impaire
-  - Si couleur 4ème du partenaire, on entame la 2ème (Alain entame la 3ème)
+  - Si on possède 4 cartes dans la couleur du partenaire, on entame la 2ème
 
 **** Couleur de 3 cartes sans séquence:
 
@@ -127,7 +127,7 @@ Attention remarque… Mais quoi ?
 -	AS : on appelle avec des couleurs longues (le partenaire est court) et pas des honneurs
 -	DAME, VALET : Attitude (on dit qu’on aime quand on a des honneurs car son entame provient souvent d’une longue)
 
-**** Le mort est maitre
+**** Le mort est maître
 
 -	Attitude
 -	la + haute des équivalentes
@@ -137,11 +137,11 @@ Attention remarque… Mais quoi ?
 -	attitude
 -	le plus haut des honneurs équivalent
 
-**** Carte en 3ème position à la couleur
+*** Carte en 3ème position à la couleur
 
 -	Carte obligatoire : la plus haute
-//-	Signalisation : attitude (on appelle avec un honneur), parité, préférence (en Lavinthal, concerne les autres couleurs, utilisée si singleton au mort)
--	Autre possibilité de préférence (attention, délicat à utiliser) : si le partenaire sait qu’on possède beaucoup de cartes dans la couleur (vu la séquence d’enchères), alors on montre la préférence avec des cartes paires. Avec les impaires, soit pas de préférence, soit un intérêt pour raccourcir le mort. Attention aux choix forcés !
+-	Signalisation : attitude (on appelle avec un honneur), parité, préférence (en Lavinthal, concerne les autres couleurs, utilisée si singleton au mort)
+//-	Autre possibilité de préférence (attention, délicat à utiliser) : si le partenaire sait qu’on possède beaucoup de cartes dans la couleur (vu la séquence d’enchères), alors on montre la préférence avec des cartes paires. Avec les impaires, soit pas de préférence, soit un intérêt pour raccourcir le mort. Attention aux choix forcés !
 
 **** Sur entame d’une petite carte
 
